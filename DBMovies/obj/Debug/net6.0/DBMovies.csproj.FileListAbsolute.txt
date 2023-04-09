@@ -1,0 +1,14 @@
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\bin\Debug\net6.0\DBMovies.deps.json
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\bin\Debug\net6.0\DBMovies.runtimeconfig.json
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\bin\Debug\net6.0\DBMovies.dll
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\bin\Debug\net6.0\DBMovies.pdb
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.csproj.AssemblyReference.cache
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.AssemblyInfoInputs.cache
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.AssemblyInfo.cs
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.csproj.CoreCompileInputs.cache
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.dll
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\refint\DBMovies.dll
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.pdb
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\DBMovies.genruntimeconfig.cache
+C:\Users\Login\Desktop\ProyectoPeliculas\CodeFirstApi\DBMovies\obj\Debug\net6.0\ref\DBMovies.dll
