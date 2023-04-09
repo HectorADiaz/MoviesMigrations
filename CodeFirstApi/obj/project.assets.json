@@ -1242,6 +1242,19 @@
             "rid": "win"
           }
         }
+      },
+      "DBMovies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4"
+        },
+        "compile": {
+          "bin/placeholder/DBMovies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBMovies.dll": {}
+        }
       }
     }
   },
@@ -3712,10 +3725,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DBMovies/1.0.0": {
+      "type": "project",
+      "path": "../DBMovies/DBMovies.csproj",
+      "msbuildProject": "../DBMovies/DBMovies.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DBMovies >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.4",
       "Swashbuckle.AspNetCore >= 6.2.3"
@@ -3752,7 +3771,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Login\\Desktop\\ProyectoPeliculas\\CodeFirstApi\\DBMovies\\DBMovies.csproj": {
+              "projectPath": "C:\\Users\\Login\\Desktop\\ProyectoPeliculas\\CodeFirstApi\\DBMovies\\DBMovies.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
